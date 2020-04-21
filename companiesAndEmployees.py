@@ -28,5 +28,5 @@ Bob = Employee("Bob Lee Swagger", "Marine", "4/20/2020")
 Jimmy = Employee("Jimmy John", "Chef", "4/20/2020")
 Johnny = Employee("Johnny John", "Cashier", "4/21/2020")
 Billy = Employee("Billy Bob", "Professional Athlete", "4/21/2020")
-Jane 
+Jane = Employee("Jane Doe", "")
 
